@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708126671415",
+    "firebase_url": "https://smart-spark-59f7c.firebaseio.com",
+    "project_id": "smart-spark-59f7c",
+    "storage_bucket": "smart-spark-59f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708126671415:android:053ecb39f399288017f5b2",
+        "android_client_info": {
+          "package_name": "com.ashniz.smart_energy_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708126671415-k268erl3dmdqt3rv9l5ld82n8ekul7hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLjhDXJFn46ZjnQbNlWEJzOoSije-dwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708126671415-k268erl3dmdqt3rv9l5ld82n8ekul7hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
