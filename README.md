@@ -1,4 +1,4 @@
-# DSCWOW-SmartSpark
+# SmartSpark
 
 ## CodeOffDuty Hackathon Initiative
 
