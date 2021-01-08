@@ -1,7 +1,9 @@
-# DSCWOW-SmartSpark
+# SmartSpark
+
+## CodeOffDuty Hackathon Initiative
 
 A smart energy monitoring system app that enables user to see their live energy consumption details along with the bill <br>
-For working demo of the project <a href="https://youtu.be/NMaJGlikHAU" target="_blank">click here</a>.<br>
+For working demo of the project <a href="https://youtu.be/pMyG-e43orI" target="_blank">click here</a>.<br>
 <h2>HARDWARE</h2>
 
 The hardware comprises of a
